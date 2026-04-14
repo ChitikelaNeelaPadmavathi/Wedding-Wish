@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // 📝 TEXT
    function showText() {
-    document.getElementById("names").innerText = "Raju ❤️ Padma";
+    document.getElementById("names").innerText = "Raju Babu ❤️ Sri Padma";
 
     document.getElementById("message").innerHTML =
 `Wishing you both a lifetime filled with love, joy, and happiness 🫶<br>
